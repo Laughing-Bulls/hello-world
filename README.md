@@ -1,2 +1,3 @@
 # hello-world
-First repository goes here
+Moon tacos are over-rated, in my opinion.
+Most of my friends agree.
